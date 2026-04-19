@@ -9,3 +9,4 @@ pandas
 sentence-transformers
 plotly
 spacy
+torchvision
