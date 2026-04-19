@@ -1,0 +1,11 @@
+streamlit
+requests
+transformers
+torch
+scikit-learn
+matplotlib
+numpy
+pandas
+sentence-transformers
+plotly
+spacy
